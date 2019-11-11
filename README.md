@@ -27,7 +27,7 @@ The dataset consists of text, collected mainly from Instagram posts. The posts w
 
 
 ### Model Results
-[![Results](./ml_results.png)]
+![Results](./ml_results.png)
 
 
 ### Link to project demo
