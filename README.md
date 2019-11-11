@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## BODY-SHAMING CLASSIFIER
 
-You can use the [editor on GitHub](https://github.com/firesans/body-shaming/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Body shaming is an act in which individuals are judged negatively based on their physical appearance.
+- Statistics show that nearly 94% of teen girls and 65% of teen boys have been body shamed
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Aim of this project: Study and Identify Bodyshaming in Social Media Posts
 
 ### Markdown
 
