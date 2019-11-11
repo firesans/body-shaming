@@ -26,9 +26,11 @@ The dataset consists of text, collected mainly from Instagram posts. The posts w
     “Have you seen yourself in the mirror?”
 
 
-### Model Results
+## Model Results
+### ML models
 ![Results](./ml_results.png)
-
+### DL models
+![Results](./dl_results.png)
 
 ### Link to project demo
 http://www.example.com
