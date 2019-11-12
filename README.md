@@ -28,22 +28,34 @@ The dataset consists of text, collected mainly from Instagram posts. The posts w
 ## How to Run the code
 
 ### Machine Learning Models 
+'''
 Run non_dl_models.ipynb jupyter notebook
+'''
 
 ### Deep Learning Models 
-Run dl_models.ipynb jupyter notebook 
+'''
+Run dl_models.ipynb jupyter notebook
+'''
 
 ### Glove and Elmo embeddings 
+'''
 Run elmo_and_glove.ipynb jupyter notebook
+'''
 
 ### Clustering code
+'''
 Run clustering.ipynb jupyter notebook
+'''
 
 ### LDA code
+'''
 Run LDA.ipynb jupyter notebook 
+'''
 
 ### Pseudo Labelling code
+'''
 Run pseudo_labelling.ipynb code
+'''
 
 ## Model Results
 ### ML models
