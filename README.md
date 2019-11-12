@@ -52,4 +52,4 @@ Run pseudo_labelling.ipynb code
 ![Results](./dl_results.png)
 
 ### Link to project demo
-http://www.example.com
+https://youtu.be/mXoFyrKSJ3Q
